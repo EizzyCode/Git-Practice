@@ -1,0 +1,8 @@
+### My Top 5 Skills
+
+My **Top Five Skills** Include:
+1. Data Cleaning
+1. Data Transformation
+1. Data Visualizaion
+1. Dashboard Designs
+1. PowerBi
